@@ -1,0 +1,2 @@
+source C:/Users/aymaa/Desktop/ESP32-BareMetal-UART-Stack/firmware/build/gdbinit/symbols
+source C:/Users/aymaa/Desktop/ESP32-BareMetal-UART-Stack/firmware/build/gdbinit/connect

@@ -1,0 +1,7 @@
+-Wno-frame-address
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+"-specs=C:/Users/aymaa/Desktop/ESP32-BareMetal-UART-Stack/firmware/build/specs/picolibc.specs"
+-fno-rtti
